@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="com.testng.SuiteDemo1"/>
+    </classes>
+  </test>
+  <test name="Test2">
+    <classes>
+      <class name="com.testng.SuiteDemo2"/>
+    </classes>
+  </test>
+  <test name="Test3">
+    <classes>
+      <class name="com.testng.SuiteDemo3"/>
+    </classes>
+  </test> 
+  <test name="Test4">
+    <classes>
+      <class name="com.testng.SuiteDemo4"/>
+    </classes>
+  </test>
+  <test name="Test5">
+    <classes>
+      <class name="com.testng.SuiteDemo5"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
